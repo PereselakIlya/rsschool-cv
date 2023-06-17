@@ -48,5 +48,4 @@ if (isset($_POST["image"]) && isset($_POST["Nazva"]) && isset($_POST["Author"]) 
 ## Курсы
 __JS/FE Pre-School 2023Q2(in progress)__
 ## Английский язык
-__A1, Epam test__
 ![Письмо подтверждающее наличие А1 уровня](EpamEngTest.png)
