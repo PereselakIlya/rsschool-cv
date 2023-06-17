@@ -6,15 +6,15 @@
 * +375 (44) 7929591
 * ilyapereselyakby@gmail.com 
 ## Обо мне
-* Работал с с++, java, Microsoft SQL Manager. Наверное знаю c# на уровне june. Редактировал изображения в Adobe Photoshop, ilustrator, так-же занимался анимацией в Adobe animate. Умею в frontend(HTML, CSS, JS). Есть некоторые знания в  PHP. Ознакомлен с CMS WordPress Имею небольшой опыт в unity, еще не освоил развертки и шейдеры. Я неконфликтный, усердный, пунктуальный и коммуникабельный *
+    Работал с с++, java, Microsoft SQL Manager. Наверное знаю c# на уровне june. Редактировал изображения в Adobe Photoshop, ilustrator, так-же занимался анимацией в Adobe animate. Умею в frontend(HTML, CSS, JS). Есть некоторые знания в  PHP. Ознакомлен с CMS WordPress Имею небольшой опыт в unity, еще не освоил развертки и шейдеры. Я неконфликтный, усердный, пунктуальный и коммуникабельный.
 ## Навыки
-*Знание языков	Русский — Родной
-    *Английский — A2 — Элементарный
-*Навыки	
-    *JavaScript, HTML, MySQL, CSS3, PHP  
-    *Adobe,Photoshop, Adobe Illustrator, Figma  
-    *Unity, 3D Max, Blender 3D  
-    *C#, Windows Forms
+*Знание языков	Русский — Родной<BR>
+    *Английский — A2 — Элементарный<BR>
+*Навыки<BR>
+    *JavaScript, HTML, MySQL, CSS3, PHP<BR>  
+    *Adobe,Photoshop, Adobe Illustrator, Figma<BR>  
+    *Unity, 3D Max, Blender 3D<BR>  
+    *C#, Windows Forms<BR>
 ## Примеры кода
 ```PHP, проект-электронная книга рецептов, функция для добавления рецептов в базу данных
 <?php
